@@ -2,7 +2,7 @@
   <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/flux-x/.github/raw/main/banner-flux-x-dark.png">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/flux-x/.github/raw/main/banner-flux-x-dark.light">
-      <img height="120" alt="flux-x" src="https://github.com/flux-x/.github/raw/main/banner-flux-x-dark.png">
+      <img height="80" alt="flux-x" src="https://github.com/flux-x/.github/raw/main/banner-flux-x-dark.png">
   </picture>
 </p>
 
